@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @TheHoelessOne
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently in my Undergraduation
-- 💞️ I’m a total beginner
+
